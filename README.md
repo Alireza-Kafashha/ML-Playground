@@ -1,4 +1,3 @@
-Here’s the exact format you can copy directly into your GitHub README file:
 
 ```markdown
 # **Credit Card Fraud Detection**
