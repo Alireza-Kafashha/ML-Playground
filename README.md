@@ -81,5 +81,3 @@ Contributions are welcome! Feel free to submit a pull request or report an issue
 ## **License**
 This project is licensed under the MIT License.
 ```
-
-Copy and paste this into your `README.md` file on GitHub. Let me know if you need any adjustments!
